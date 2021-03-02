@@ -1,0 +1,12 @@
+Yeahh, I have comlete The Challenge in time, but with some glitches -- 
+
+0. Website is completely developed in HTML and pure CSS.
+
+1. Font is different from image.
+
+2. Used an image to show map, not actual map from google API.
+
+3. This website is not responsive, due to time constrain.
+		I can make it responsive if given more time.
+
+4. You can see it live here --- 
